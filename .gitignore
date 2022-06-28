@@ -1,3 +1,5 @@
 package-lock.json
 bin/*
 node_modules/*
+populatedb.js
+.env
